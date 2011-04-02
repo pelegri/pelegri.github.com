@@ -1,0 +1,28 @@
+There currently are many activities underway surrounding BlackBerry&reg; WebWorks for BlackBerry Smartphones and below you will find the different areas that are in currently in flight.
+ 
+h3. Contributor Agreement & Roles
+
+_*[In Final Review]*_ We are currently working through finalizing the contributor agreements that will allow the community to contribute code to the project.   As soon as we have the i's dotted and t's crossed we'll be posting more information on how to sign up to be a contributor to the project.  We are also finalizing the definition of each of the roles that contributors can have such as reviewer, commiter etc.
+ 
+h3. Evacuating APIs
+
+_*[In Final Testing]*_ The first set of source code provided on github included the packager, the application template code and three new APIs.  What it didn't include was the source code for the rest of the BlackBerry WebWorks JavaScript APIs.  This was because these APIs are currently built with the BlackBerry operating system and distributed with each new device build.
+ 
+While this does give some advantages around application build size, it also comes with the disadvantage where the APIs can only be modified and distributed with new OS builds.
+ 
+We currently have a team working on evacuating the existing BlackBerry WebWorks JavaScript APIs off of the operating system and bringing them up into the open source project on github.  This way all of the source code for the entire platform will be available to the the community.  We will also be able to make changes, fixes, additions to this code much more frequently and will not be tied to operating system releases
+ 
+h3. New BlackBerry Smartphone JavaScript APIs
+
+We are scoping and starting work on some new JavaScript APIs to add to the SDK.  We will be providing the JavaScript interface definitions on this forum to allow the community to see what we are planning and what the API signatures will look like.
+
+h3. Builds and Testing
+
+When we first posted the source code to github we knew we still had work to do to get everything to where we wanted it to be.  We wanted to make sure that we had the source code available and people could get started, but we have more to come.
+ 
+We have teams pulling together build scripts and testing frameworks built on open technologies so that you will be able to download the project, configure your environment, build the code and run the test suites.  We want to ensure we are enabling the community to be successful using open standard frameworks with no internal RIM sauce needed.
+ 
+h3. BlackBerry Platform SDKs
+
+We are also working with each of the BlackBerry Platform SDK teams such as payment, advertising, BBM etc to ensure that these great services will be available for the BlackBerry WebWorks platform.
+ 

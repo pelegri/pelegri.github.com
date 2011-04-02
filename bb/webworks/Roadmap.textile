@@ -1,0 +1,54 @@
+h1. Roadmap
+
+Below you will find the tentative roadmap for BlackBerry&reg; WebWorks on the BlackBerry Smartphone operating system.
+
+You can also join the roadmap conversations on the BlackBerry WebWorks Contributions forum found here: [[http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con]]
+
+h3. Release 1.5.0 [Delivered]
+
+Scope
+* Caching
+* Multiple entry points
+* Support for BlackBerry 6 
+* SMS JavaScript API
+* Audio JavaScript API
+* Phone Integration JavaScript API
+
+Remarks
+* Source Code uploaded to github 
+
+
+h3. Release 1.5.1 [Delivered]
+
+Scope
+* Re-branding of BlackBerry Widgets to BlackBerry WebWorks
+* Distributed installer will now contain code with OSS Apache 2.0 license
+
+Remarks
+* Just released!! [[Download Here|http://www.blackberry.com/developers/widget]]
+* Simply an incremental release mainly focused on branding changes
+* Source Code uploaded to github
+
+h3. Release 2.0.0 [Mid March]
+
+Scope
+* Navigation Mode updates
+* On-device JavaScript APIs extracted 
+* JavaScript APIs now distributed with the SDK
+* Allow compiled JARs in JavaScript Extensions
+* Third party JavaScript extensions no longer need to be packages per application
+
+Remarks
+* Further optimizations for Trackpad navigation on BlackBerry 6 with a combination of Touch and Trackpad
+* Existing JavaScript APIs that were previously shipped with the OS will be moved into the open source project where the project will no longer have a dependency on OS upgrades for fixes or functionality additions
+
+h3. Release 2.1.0?
+
+Scope
+* NTLM/BASIC Authentication
+* Improved speed of Focus based Navigation Mode
+* Official BlackBerry OS 6.1 support
+* Additional JavaScript APIs [[See Candidates|https://github.com/blackberry/WebWorks/wiki/Enhancement-Candidates]]
+
+Remarks
+* Adding net new functionality and speed increases
