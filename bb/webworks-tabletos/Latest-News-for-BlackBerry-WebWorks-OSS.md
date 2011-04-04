@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 ** Mar 15, 2011 - BlackBerry WebWorks for Tablet OS Beta 3 Now Available**
 The BlackBerry WebWorks SDK Beta3 for the PlayBook is now available for [download](http://us.blackberry.com/developers/tablet/webworks.jsp).  You can find out more details of what is contained in this release [here](https://github.com/blackberry/WebWorks-TabletOS/wiki/Roadmap).
 

@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 h1. Welcome to BlackBerry&reg; WebWorks for Tablet OS
 
 *Useful Links:*
