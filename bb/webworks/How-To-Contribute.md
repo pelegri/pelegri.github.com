@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 # How To Contribute
 
 This page explains several ways to contribute to the BlackBerry WebWorks Platform including: code contributions to the projects at GitHub (currently [WebWorks](https://github.com/blackberry/WebWorks) and [WebWorks-TabletOS](https://github.com/blackberry/WebWorks-TabletOS)), participations in [Forums](http://supportforums.blackberry.com/t5/Open-Source-Development/ct-p/os_dev), Issues submissions to [BB.com](http://us.blackberry.com/developers/resources/issuetracker/) and to GitHub ([WB](https://github.com/blackberry/WebWorks/issues) & [WBTO](https://github.com/blackberry/WebWorks-TabletOS/issues)), and to this Wiki.

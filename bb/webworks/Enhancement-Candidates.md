@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 The below enhancement candidates are for BlackBerry WebWorks JavaScript APIs for BlackBerry Smartphones only.  The initial list of JavaScript APIs for BlackBerry WebWorks on the Tablet OS and are still under construction.
 
 **Under active development**

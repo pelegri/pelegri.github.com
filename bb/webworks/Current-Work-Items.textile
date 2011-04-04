@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 There currently are many activities underway surrounding BlackBerry&reg; WebWorks for BlackBerry Smartphones and below you will find the different areas that are in currently in flight.
  
 h3. Contributor Agreement & Roles

@@ -1,3 +1,6 @@
+---
+title: Foo
+---
 This page lists the persons and companies who have signed and submitted [Contributor Agreement](https://github.com/blackberry/WebWorks/wiki/How-To-Contribute) forms to Research In Motion.
 
 ### Research In Motion Contributor Agreement Signatories
