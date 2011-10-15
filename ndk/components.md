@@ -9,13 +9,16 @@ Some blurb.
 Also see Samples
 
 ** Media Components
+
 The following compoments are related to multi-media processing: ALUT, OpenAL, SDL
 
 ** Gaming Components
+
 The following components are Physics Engines, Game Engines or Games: Box2D, Bullet, Cocos2D-X, GamePlay, Wesnoth, OpenTTD, DosBox
 
 
 ** General Libraries
+
 These are general purpose libraries, languages, or frameworks: Lua, PCRE, Erlang-OTP, SpiderMoneky, TouchControlOverlay, Qt, Boost
 
 ## Source Repositories
