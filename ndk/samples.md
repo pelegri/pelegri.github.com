@@ -7,6 +7,7 @@ layout: default
 
 Some blurb.
 Also see Components
+Maybe combine components and samples?
 
 ## Source Repositories
 
