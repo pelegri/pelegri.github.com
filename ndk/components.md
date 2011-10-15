@@ -29,7 +29,7 @@ Here is one row per component, sorted by class
     <th>Contributors</th>
   </tr>
   <tr>
-    <th colspan=3>Media</th>
+    <th colspan="3">Media</th>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WOMBAT" target="_blank">WOMBAT</a></td>
@@ -37,7 +37,7 @@ Here is one row per component, sorted by class
     <td style="text-align:center"><a href="https://github.com/blackberry/WOMBAT/contributors">See List?</a></td>
   </tr>
   <tr>
-    <th colspan=3>Gaming</th>
+    <th colspan="3">Gaming</th>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WOMBAT" target="_blank">WOMBAT</a></td>
@@ -45,7 +45,7 @@ Here is one row per component, sorted by class
     <td style="text-align:center"><a href="https://github.com/blackberry/WOMBAT/contributors">See List?</a></td>
   </tr>
   <tr>
-    <th colspan=3>Utilities</th>
+    <th colspan="3">Utilities</th>
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WOMBAT" target="_blank">WOMBAT</a></td>
