@@ -9,7 +9,7 @@ layout: default
 As part of this initiative, RIM is contributing initial ports to the QNX-based BlackBerry&copy; Tablet OS
 of commonly used Open Source Libraries and Games.
 Following this release, RIM will collaborate with the existing open source communities to
-incorporate these these changes into the upstream repositories.
+incorporate these changes into the upstream repositories.
 
 RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
 to use all this components to create applications for the BlackBerry&copy; PlayBook.
