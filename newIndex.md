@@ -32,21 +32,21 @@ The following components are Physics Engines, Game Engines or Games:
 * [Bullet](ndk/components.html#Bullet) - a professional free 3D game multi-physics library.
 * [Cocos2D-X](ndk/components.html#Cocos2D-X) - an open-source, C++ based, mobile 2D game engine.
 * [GamePlay](ndk/components.html#GamePlay) - a new open-source, cross-platform 3D native gaming framework.
-* [Wesnoth](ndk/components.html#Wesnoth) - the Battle for Wesnoth is a turn-based, tactical strategy game. 
 * [OpenTTD](ndk/components.html#OpenTTD) - a simulation game originally based on Transport Tycoon Deluxe.
 * [DosBox](ndk/components.html#DosBox) - a MS-DOS emulator used to play older games and applications meant to run on DOS.
+* [Wesnoth](ndk/components.html#Wesnoth) - the Battle for Wesnoth is a turn-based, tactical strategy game. 
 
 **General Libraries**
 
 The following components are general purpose libraries, languages, or frameworks:
 
+* [Qt](ndk/components.html#Qt) - a popular cross-platform application framework.
+* [Boost](ndk/components.html#Boost) - a popular set of C++ libraries.
 * [Lua](ndk/components.html#Lua) - a powerful, fast, lightweight, embeddable scripting language.
 * [PCRE](ndk/components.html#PCRE) - regular expression pattern matching using the same syntax and semantics as Perl 5.
 * [Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
-* [SpiderMoneky](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
+* [SpiderMonkey](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
 * [TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from touch inputs to mouse and keyboard events.
-* [Qt](ndk/components.html#Qt) - a popular cross-platform application framework.
-* [Boost](ndk/components.html#Boost) - a popular set of C++ libraries.
 
 
 We hope you will find these components useful and we encourate your participation to improve them.
