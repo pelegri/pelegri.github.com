@@ -13,23 +13,22 @@ RIM is going to work more openly with the [WebKit.org](http://webkit.org) commun
 
 > Hi all,
 
-> I'm writing to inform you that we are preparing to land the QNX WebKit
-port.  Since 2009, RIM (BlackBerry) has been integrating WebKit into
-its products and contributing to the WebKit open source project.  Our
-dedication to WebKit includes shipping it on all current products,
-contributing software to the project, as well as supporting some key
-people who are employed to work part-time or full-time on the
-webkit.org tree.  To date, our ports have not been integrated into the
-webkit.org repository.  However, this is in the process of changing as
-we are now integrating our QNX port into Subversion.  We are in the
-final stages of preparing a public build bot, rebaselining test
-results, and rebasing our port to the tip of tree.  Many of our QNX
-related changes are already integrated and we plan to begin submitting
-the rest shortly in coordination with additional upcoming open source
-initiatives.  It is our intention to do more development on our QNX
-port at webkit.org, and we look forward to any comments or suggestions
-on our approach.  We're excited to be working openly together with the
-community!
+> I'm writing to inform you that we are preparing to land the QNX WebKit port.
+> Since 2009, RIM (BlackBerry) has been integrating WebKit into its products
+> and contributing to the WebKit open source project.  Our dedication to WebKit
+> includes shipping it on all current products, contributing software to the project,
+> as well as supporting some key people who are employed to work part-time or full-time on the
+> webkit.org tree.  To date, our ports have not been integrated into the webkit.org
+> repository.  However, this is in the process of changing as
+> we are now integrating our QNX port into Subversion.  We are in the
+> final stages of preparing a public build bot, rebaselining test
+> results, and rebasing our port to the tip of tree.  Many of our QNX
+> related changes are already integrated and we plan to begin submitting
+> the rest shortly in coordination with additional upcoming open source
+> initiatives.  It is our intention to do more development on our QNX
+> port at webkit.org, and we look forward to any comments or suggestions
+> on our approach.  We're excited to be working openly together with the
+> community!
 
 > Sincerely,
 
