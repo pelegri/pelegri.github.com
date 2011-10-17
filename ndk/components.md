@@ -12,6 +12,7 @@ Also see Samples
 
 The following compoments are related to multi-media processing: ALUT, OpenAL, SDL
 
+<a name="gaming"/>
 **Gaming Components**
 
 The following components are Physics Engines, Game Engines or Games: Box2D, Bullet, Cocos2D-X, GamePlay, Wesnoth, OpenTTD, DosBox
@@ -24,6 +25,12 @@ These are general purpose libraries, languages, or frameworks: Lua, PCRE, Erlang
 ## Source Repositories
 
 Here is one row per component, sorted by class
+
+<a name="OpenAL"/>
+### OpenAL ###
+
+<a name="ALUT"/>
+### ALUT ###
 
 <table class="outlined">
   <tr>
