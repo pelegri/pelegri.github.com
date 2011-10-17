@@ -45,8 +45,8 @@ The following components are general purpose libraries, languages, or frameworks
 * [Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
 * [SpiderMoneky](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
 * [TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from PlayBook touch inputs to mouse and keyboard events.
-* [Qt](ndk/components.html#Qt) -
-* [Boost](ndk/components.html#Boost) -
+* [Qt](ndk/components.html#Qt) - a popular cross-platform application framework.
+* [Boost](ndk/components.html#Boost) - a popular set of C++ libraries.
 
 
 We hope you will find these components useful and we encourate your participation to improve them.
