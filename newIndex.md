@@ -3,7 +3,51 @@ title: BlackBerry Open Source
 layout: default
 ---
 
-# Research In Motion at GitHub
+# Announcing the Native Open Source Components Initiative
+
+(Oct 18th, 2011) Today [Research in Motion](http://rim.com) announced its Native Open Source Components Initiative at DevCon 2011 America.
+As part of this initiative, RIM is contributing initial ports of commonly used Open Source Libraries and Games to
+the QNX-based BlackBerry&copy; Tablet OS.  RIM will collaborate with the existing open source communities to
+incorporate these these changes into the upstream repositories.
+
+RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
+to use all this components to create applications for the BlackBerry&copy; PlayBook.
+
+The initial list of components covered in the initiative include:
+
+**Media Components**
+
+The following compoments are related to multi-media processing:
+
+* ALUT
+* OpenAL
+* SDL
+
+**Gaming Components**
+
+The following components are Physics Engines, Game Engines or Games:
+* Box2D
+* Bullet
+* Cocos2D-X
+* GamePlay
+* Wesnoth
+* OpenTTD
+* DosBox
+
+**General Libraries**
+
+These are general purpose libraries, languages, or frameworks:
+* Lua
+* PCRE
+* Erlang-OTP
+* SpiderMoneky
+* TouchControlOverlay
+* Qt
+* Boost
+
+----
+
+## Research In Motion at GitHub
 
 Welcome to the home for [RIM](http://rim.com) projects at GitHub.
 
