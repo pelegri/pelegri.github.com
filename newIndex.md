@@ -20,32 +20,38 @@ The initial list of components covered in the initiative include:
 
 The following compoments are related to multi-media processing:
 
-* [OpenAL](ndk/components.html#OpenAL), Open Audio Library - an efficient multichannel 3D positional audio library.
-* [ALUT](ndk/components.html#ALUT), OpenAL Utility Toolkit
-* [SDL](ndk/components.html#SDL), Simple DirectMedia Layer - a simple interface to graphics, sound and input devices.
+* [OpenAL](ndk/components.html#OpenAL) (Open Audio Library) - an efficient multichannel 3D positional audio library.
+* [ALUT](ndk/components.html#ALUT) (OpenAL Utility Toolkit) - popular companion library to OpenAL.
+* [SDL](ndk/components.html#SDL) (Simple DirectMedia Layer) - a simple interface to graphics, sound and input devices.
 
 **Gaming Components**
 
 The following components are Physics Engines, Game Engines or Games:
-* Box2D
-* Bullet
-* Cocos2D-X
-* GamePlay
-* Wesnoth
-* OpenTTD
-* DosBox
+
+* [Box2D](ndk/components.html#Box2D) - a 2D rigid body simulation physics library for games.
+* [Bullet](ndk/components.html#Bullet) - a professional free 3D game multi-physics library.
+* [Cocos2D-X](ndk/components.html#Cocos2D-X) - an open-source, C++ based, mobile 2D game engine.
+* [GamePlay](ndk/components.html#GamePlay) - a new open-source, cross-platform 3D native gaming framework.
+* [Wesnoth](ndk/components.html#Wesnoth) - the Battle for Wesnoth is a turn-based, tactical strategy game. 
+* [OpenTTD](ndk/components.html#OpenTTD) - a cross-platform, open-source simulation game originally based on Transport Tycoon Deluxe.
+* [DosBox](ndk/components.html#DosBox) - a MS-DOS emulator used to play older games and applications meant to run on DOS.
 
 **General Libraries**
 
-These are general purpose libraries, languages, or frameworks:
-* Lua
-* PCRE
-* Erlang-OTP
-* SpiderMoneky
-* TouchControlOverlay
-* Qt
-* Boost
+The following components are general purpose libraries, languages, or frameworks:
 
----
+* [Lua](ndk/components.html#Lua) - a powerful, fast, lightweight, embeddable scripting language.
+* [PCRE](ndk/components.html#PCRE) - regular expression pattern matching using the same syntax and semantics as Perl 5.
+* [Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
+* [SpiderMoneky](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
+* [TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from PlayBook touch inputs to mouse and keyboard events.
+* [Qt](ndk/components.html#Qt) -
+* [Boost](ndk/components.html#Boost) -
 
-Continue to the [old Index](oldIndex.html)
+
+We hope you will find these components useful and we encourate your participation to improve them.
+You can also help us determine which other components to port;
+some already announced but not yet delivered are described [here](commingSoon.html).
+
+
+... Now you can navigate back to our [normal Index page](oldIndex.html).
