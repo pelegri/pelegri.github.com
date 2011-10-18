@@ -16,7 +16,4 @@ and some samples that show how to use all this components to create applications
 
 These components extend an already very comprehensive list of [libraries available with Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
 
-For more details, check out:
-
-* <a href="components.html">Components</a>
-* <a href="samples.html">Samples</a>
+For more details on the components, check out [Components](components.html) and [Samples](samples.html).
