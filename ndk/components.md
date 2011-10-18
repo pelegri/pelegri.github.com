@@ -55,15 +55,15 @@ The following components are Physics Engines:
 
 <a name="Box2D"/>
 **Box2D**  
-Box2D  a 2D rigid body simulation physics library for games.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+Box2D is a feature rich rigid body open source 2D physics engine for games.  
+The ported code is available at [github.com/blackberry/Box2D](http://github.com/blackberry/Box2D).  
+Also see [Box2D.org](http://box2d.org/)
 
 <a name="Bullet"/>
-***Bullet***
-Bullet is a professional free 3D game multi-physics library.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+***Bullet Physics***
+Bullet Physics is a is an open source physics engine featuring 3D collision detection, soft body dynamics, and rigid body dynamics.  
+The ported code is available at [github.com/blackberry/Bullet](http://github.com/blackberry/Bullet).  
+Also see [BulletPhysics.org](http://bulletphysics.org/wordpress/)
 
   &nbsp;  
 
@@ -72,15 +72,15 @@ The following components are Game Engines:
 
 <a name="Cocos2D-X"/>
 **Cocos2D-X**  
-Cocos2D-X is an open-source, C++ based, mobile 2D game engine.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+C++ port of cocos2d game engine. Multi-platform, light weight, developer-friendly, free and open source.  
+The ported code is available at [github.com/blackberry/Cocos2D-X](http://github.com/blackberry/Cocos2D-X).  
+Also see [Cocos2D-X.org](http://www.cocos2d-x.org/)
 
 <a name="GamePlay"/>
 **GamePlay**  
-GamePlay is a new open-source, cross-platform 3D native gaming framework.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+GamePlay is a new open-source, cross-platform 3D native gaming framework making it easy
+to learn and write mobile and desktop games.  
+The code is available at [github.com/blackberry/GamePlay](http://github.com/blackberry/GamePlay).  
 
   &nbsp;  
 
@@ -89,21 +89,21 @@ The following components are Games:
 
 <a name="OpenTTD"/>
 **OpenTTD**  
-OpenTTD is a simulation game originally based on Transport Tycoon Deluxe.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+OpenTTD is a simulation game based on Transport Tycoon Deluxe.  
+The ported code is available at [github.com/blackberry/OpenTTD](http://github.com/blackberry/OpenTTD).  
+Also see [OpenTTD.org](http://www.openttd.org/en/)
 
 <a name="DosBox"/>
 **DosBox**  
-DosBox is a MS-DOS emulator used to play older games and applications meant to run on DOS.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+DosBox is an open source DOS emulator for BeOS, Linux, Mac OS X, OS/2, and Windows. Primarily focuses on running DOS Games.  
+The ported code is available at [github.com/blackberry/DosBox](http://github.com/blackberry/DosBox).  
+Also see [DosBox.com](http://www.dosbox.com/)
 
 <a name="Wesnoth"/>
 **The Battle of Wesnoth**
-The Battle of Wesnoth is a turn-based, tactical strategy game. 
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+The Battle for Wesnoth is a Free, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat.  
+The ported code is available at [github.com/blackberry/Wesnoth](http://github.com/blackberry/Wesnoth).  
+Also see [Wesnoth.org](http://wesnoth.org/).
 
   &nbsp;  
 
@@ -113,15 +113,15 @@ The following components are general purpose libraries and frameworks:
 
 <a name="Qt"/>
 **Qt**  
-Qt is a popular cross-platform application framework.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+Qt is a cross-platform application and UI framework with APIs for C++ programming and Qt Quick for rapid UI creation.  
+The ported code will (soon) be available at [github.com/blackberry/Qt](http://github.com/blackberry/Qt).  
+Also see [Qt.Nokia.Com](http://qt.nokia.com/products/)
 
 <a name="Boost"/>
 **Boost**  
-Boost is a popular set of C++ libraries.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+Boost is a collection of free peer-reviewed portable C++ source libraries.  
+The latest release (1.47) runs correctly on Tablet OS; instructions for compiling it will be posted soon.  
+Also see [Boost.org](http://boost.org/).
 
   &nbsp;  
 
@@ -129,16 +129,15 @@ Also see [LibSDL.org](http://www.libsdl.org/).
 The following components are utilities:
 
 <a name="PCRE"/>
-**PCRE**  
-PCRE is a regular expression pattern matching using the same syntax and semantics as Perl 5.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+**PCRE**  P
+he CRE (Perl Compatible Regular Expressions) library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5.  
+The ported code is available at [github.com/blackberry/PCRE](http://github.com/blackberry/PCRE).  
+Also see [PCRE.org](http://pcre.org/).
 
 <a name="TouchControlOverlay"/>
 **TouchControlOverlay**  
-TouchControlOverlay is a translation layer from touch inputs to mouse and keyboard events.
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+This library takes touchscreen input and converts it into keyboard and mouse events in a predefined way.  
+The ported code is available at [github.com/blackberry/TouchControlOverlay](http://github.com/blackberry/TouchControlOverlay).  
 
   &nbsp;  
 
@@ -149,20 +148,20 @@ The following components are languages:
 <a name="Erlang-OTP"/>
 **Erlang-OTP**  
 Erlang-OTP is Erlang libraries and design principles.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+The ported code is available at [github.com/blackberry/Erlang-OTP](http://github.com/blackberry/Erlang-OTP).  
+Also see [Erlang.org](http://erlang.org/).
 
 <a name="Lua"/>
 **Lua**  
-Lua is a powerful, fast, lightweight, embeddable scripting language.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+Lua is a powerful, fast, lightweight, embeddable scripting language. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics.  
+The ported code is available at [github.com/blackberry/Lua](http://github.com/blackberry/Lua).  
+Also see [Lua.org](http://lua.org/).
 
 <a name="SpiderMonkey"/>
 **SpiderMonkey**  
 Mozilla SpiderMonkey is  Mozilla's JavaScript engine.  
-The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
-Also see [LibSDL.org](http://www.libsdl.org/).
+The ported code is available at [github.com/blackberry/SpiderMonkey](http://github.com/blackberry/SpiderMonkey).  
+Also see [developer.Mozilla.org](https://developer.mozilla.org/en/SpiderMonkey).
 
 
 
