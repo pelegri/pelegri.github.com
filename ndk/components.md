@@ -31,9 +31,9 @@ The following compoments are related to multi-media processing
 **OpenAL**  
 OpenAL (Open Audio Library) is a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications.  
 The ported code is available at [github.com/blackberry/OpenAL](http://github.com/blackberry/OpenAL).  
-The binary is not in the Tablet OS but is pre-bundled with the NDK.  
 Also see the [OpenAL at CreativeLabs](http://connect.creativelabs.com/openal/default.aspx) and
 [OpenAL Soft](http://kcat.strangesoft.net/openal.html).
+*Note* - the binary is not in the Tablet OS but is pre-bundled with the NDK.  
 
 <a name="ALUT"/>
 **ALUT**  
@@ -129,8 +129,8 @@ Also see [Boost.org](http://boost.org/).
 The following components are utilities:
 
 <a name="PCRE"/>
-**PCRE**  P
-he CRE (Perl Compatible Regular Expressions) library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5.  
+**PCRE**  
+The PCRE (Perl Compatible Regular Expressions) library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5.  
 The ported code is available at [github.com/blackberry/PCRE](http://github.com/blackberry/PCRE).  
 Also see [PCRE.org](http://pcre.org/).
 
