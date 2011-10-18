@@ -145,6 +145,7 @@ Also see [LibSDL.org](http://www.libsdl.org/).
 **Libraries - Languages**  
 The following components are languages:
 
+<a name="Erlang"/>
 <a name="Erlang-OTP"/>
 **Erlang-OTP**  
 Erlang-OTP is Erlang libraries and design principles.  
