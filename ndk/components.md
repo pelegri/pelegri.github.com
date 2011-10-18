@@ -29,7 +29,8 @@ The following compoments are related to multi-media processing
 <a name="OpenAL"/>
 **OpenAL**  
 OpenAL (Open Audio Library) is a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications.  
-The ported code is available at [github.com/blackberry/OpenAL](http://github.com/blackberry/OpenAL).  The binary is not in the Tablet OS but is pre-bundled with the NDK.  
+The ported code is available at [github.com/blackberry/OpenAL](http://github.com/blackberry/OpenAL).  
+The binary is not in the Tablet OS but is pre-bundled with the NDK.  
 Also see the [OpenAL at CreativeLabs](http://connect.creativelabs.com/openal/default.aspx) and
 [OpenAL Soft](http://kcat.strangesoft.net/openal.html).
 
@@ -40,148 +41,121 @@ The ported code is available at [github.com/blackberry/ALUT](http://github.com/b
 Also see [ALUT at CreativeLabs](http://connect.creativelabs.com/openal/Documentation/The%20OpenAL%20Utility%20Toolkit.htm)
 
 <a name="SDL"/>
-***SDL***
+**SDL**  
+SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[SDL](ndk/components.html#SDL) (Simple DirectMedia Layer) - a simple interface to graphics, sound and input devices.
-license...
-home at...
-libraries at...
 
 <a name="gaming"/>
-*Gaming Components*
+**Gaming Components**
 
 The following components are Physics Engines:
 
 <a name="Box2D"/>
-***Box2D***
-
-[Box2D](ndk/components.html#Box2D) - a 2D rigid body simulation physics library for games.
-license...
-home at...
-libraries at...
+**Box2D**  
+Box2D  a 2D rigid body simulation physics library for games.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="Bullet"/>
 ***Bullet***
+Bullet is a professional free 3D game multi-physics library.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[Bullet](ndk/components.html#Bullet) - a professional free 3D game multi-physics library.
-license...
-home at...
-libraries at...
 
 The following components are Game Engines:
 
 <a name="Cocos2D-X"/>
-***Cocos2D-X***
+**Cocos2D-X**  
+Cocos2D-X is an open-source, C++ based, mobile 2D game engine.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[Cocos2D-X](ndk/components.html#Cocos2D-X) - an open-source, C++ based, mobile 2D game engine.
-license...
-home at...
-libraries at...
 
 <a name="GamePlay"/>
-***GamePlay***
+**GamePlay**  
+GamePlay is a new open-source, cross-platform 3D native gaming framework.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[GamePlay](ndk/components.html#GamePlay) - a new open-source, cross-platform 3D native gaming framework.
-license...
-home at...
-libraries at...
 
 The following components are Games:
 
 <a name="OpenTTD"/>
-***OpenTTD***
-
-[OpenTTD](ndk/components.html#OpenTTD) - a simulation game originally based on Transport Tycoon Deluxe.
-license...
-home at...
-libraries at...
+**OpenTTD**  
+OpenTTD is a simulation game originally based on Transport Tycoon Deluxe.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="DosBox"/>
-***DosBox***
-
-[DosBox](ndk/components.html#DosBox) - a MS-DOS emulator used to play older games and applications meant to run on DOS.
-license...
-home at...
-libraries at...
+**DosBox**  
+DosBox is a MS-DOS emulator used to play older games and applications meant to run on DOS.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="Wesnoth"/>
-***Wesnoth***
-
-[Wesnoth](ndk/components.html#Wesnoth) - the Battle for Wesnoth is a turn-based, tactical strategy game. 
-license...
-home at...
-libraries at...
+**The Battle of Wesnoth**
+The Battle of Wesnoth is a turn-based, tactical strategy game. 
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 
 <a name="libraries"/>
-*General Libraries*
-
-These are general purpose libraries, languages, or frameworks: Lua, PCRE, Erlang-OTP, SpiderMoneky, TouchControlOverlay, Qt, Boost
-
-
 **General Libraries**
 
 The following components are general purpose libraries and frameworks:
 
 <a name="Qt"/>
-***Qt***
-
-[Qt](ndk/components.html#Qt) - a popular cross-platform application framework.
-license...
-home at...
-libraries at...
+**Qt**  
+Qt is a popular cross-platform application framework.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="Boost"/>
-***Boost***
+**Boost**  
+Boost is a popular set of C++ libraries.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[Boost](ndk/components.html#Boost) - a popular set of C++ libraries.
-license...
-home at...
-libraries at...
 
 The following components are libraries:
 
 <a name="PCRE"/>
-***PCRE***
+**PCRE**  
+PCRE is a regular expression pattern matching using the same syntax and semantics as Perl 5.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[PCRE](ndk/components.html#PCRE) - regular expression pattern matching using the same syntax and semantics as Perl 5.
-license...
-home at...
-libraries at...
 
 <a name="TouchControlOverlay"/>
-***TouchControlOverlay***
+**TouchControlOverlay**  
+TouchControlOverlay is a translation layer from touch inputs to mouse and keyboard events.
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from touch inputs to mouse and keyboard events.
-license...
-home at...
-libraries at...
 
 The following components are languages:
 
 <a name="Erlang-OTP"/>
-***Erlang-OTP***
-
-[Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
-license...
-home at...
-libraries at...
+**Erlang-OTP**  
+Erlang-OTP is Erlang libraries and design principles.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="Lua"/>
-***Lua***
-
-[Lua](ndk/components.html#Lua) - a powerful, fast, lightweight, embeddable scripting language.
-license...
-home at...
-libraries at...
+**Lua**  
+Lua is a powerful, fast, lightweight, embeddable scripting language.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
 <a name="SpiderMonkey"/>
-***SpiderMonkey***
+**SpiderMonkey**  
+Mozilla SpiderMonkey is  Mozilla's JavaScript engine.  
+The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
+Also see [LibSDL.org](http://www.libsdl.org/).
 
-[SpiderMonkey](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
-license...
-home at...
-libraries at...
 
 
 
