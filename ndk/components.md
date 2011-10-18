@@ -22,8 +22,7 @@ As of the time of writing this page, the list of bundled Open Source libraries i
 The components listed below make additional Open Source libraries available to the developers:
 
 <a name="media"/>
-**Media Components**
-
+**Media Components**  
 The following compoments are related to multi-media processing
 
 <a name="OpenAL"/>
@@ -48,8 +47,7 @@ Also see [LibSDL.org](http://www.libsdl.org/).
 
 
 <a name="gaming"/>
-**Gaming Components**
-
+**Gaming Components - Physics Engines**  
 The following components are Physics Engines:
 
 <a name="Box2D"/>
@@ -64,7 +62,7 @@ Bullet is a professional free 3D game multi-physics library.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
+**Gaming Components - Game Engines**  
 The following components are Game Engines:
 
 <a name="Cocos2D-X"/>
@@ -73,14 +71,13 @@ Cocos2D-X is an open-source, C++ based, mobile 2D game engine.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
 <a name="GamePlay"/>
 **GamePlay**  
 GamePlay is a new open-source, cross-platform 3D native gaming framework.  
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
+**Gaming Components - Games**  
 The following components are Games:
 
 <a name="OpenTTD"/>
@@ -103,8 +100,7 @@ Also see [LibSDL.org](http://www.libsdl.org/).
 
 
 <a name="libraries"/>
-**General Libraries**
-
+**Libraries - General Purpose**  
 The following components are general purpose libraries and frameworks:
 
 <a name="Qt"/>
@@ -119,8 +115,8 @@ Boost is a popular set of C++ libraries.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
-The following components are libraries:
+**Libraries - Utilities**  
+The following components are utilities:
 
 <a name="PCRE"/>
 **PCRE**  
@@ -135,7 +131,7 @@ TouchControlOverlay is a translation layer from touch inputs to mouse and keyboa
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
+**Libraries - Languages**  
 The following components are languages:
 
 <a name="Erlang-OTP"/>
