@@ -27,19 +27,17 @@ The components listed below make additional Open Source libraries available to t
 The following compoments are related to multi-media processing
 
 <a name="OpenAL"/>
-***OpenAL***  
-OpenAL (Open Audio Library) is an efficient multichannel 3D positional audio library.  
-license...  
-home at...  
-libraries at...  
+**OpenAL**  
+OpenAL (Open Audio Library) is a cross-platform 3D audio API appropriate for use with gaming applications and many other types of audio applications.  
+The ported code is available at [github.com/blackberry/OpenAL](http://github.com/blackberry/OpenAL).  The binary is not in the Tablet OS but is pre-bundled with the NDK.  
+Also see the [OpenAL at CreativeLabs](http://connect.creativelabs.com/openal/default.aspx) and
+[OpenAL Soft](http://kcat.strangesoft.net/openal.html).
 
 <a name="ALUT"/>
-***ALUT***
-
-[ALUT](ndk/components.html#ALUT) (OpenAL Utility Toolkit) - popular companion library to OpenAL.  
-license...  
-home at...  
-libraries at...  
+**ALUT**  
+ALUT (OpenAL Utility Toolkit) is a companion toolkit to OpenAL; its often bundled together and that is the case for us.  
+The ported code is available at [github.com/blackberry/ALUT](http://github.com/blackberry/ALUT).  
+Also see [ALUT at CreativeLabs](http://connect.creativelabs.com/openal/Documentation/The%20OpenAL%20Utility%20Toolkit.htm)
 
 <a name="SDL"/>
 ***SDL***
