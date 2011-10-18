@@ -34,6 +34,7 @@ RIM is going to work more openly with the [WebKit.org](http://webkit.org) commun
 
 > The WebKit development team from RIM, QNX, and Torch Mobile (Beijing) Co. Ltd.
 
+Note: Back in July we posted [WebKit Contributions for BlackBerry Smartphones](http://github.com/blackberry/WebKit-Smartphone). George's above statement regards contributing the changes back to the upstream community so they are useable by the whole community.
 
 ## Apache CouchDB
 
