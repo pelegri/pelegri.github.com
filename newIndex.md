@@ -16,7 +16,7 @@ incorporate these changes into the upstream repositories.
 RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
 to use all this components to create applications for the BlackBerry&copy; PlayBook.
 
-These components extend an already very comprehensive list of [libraries available on Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
+These components extend an already very comprehensive list of [libraries available with Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
 
 The initial list of new components added through the initiative include:
 
@@ -57,7 +57,7 @@ The following components are general purpose libraries, languages, or frameworks
 The [NDK](http://blackberry.developer.com/native) bundles a small number (4) of samples, but many more are available here, including some showing integration
 with the [ScoreLoop SDK](http://developer.blackberry.com/native/documentation/scoreloop.html).
 
-* [NDK-Samples](ndk/samples.html) - a growing (21) collection of samples to use with the NDK.
+* [NDK-Samples](ndk/samples.html) - a collection of samples (21, and growing!) to use with the NDK.
 
 
 We hope you will find these components useful and we encourate your participation to improve them.
