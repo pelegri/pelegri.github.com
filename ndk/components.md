@@ -7,8 +7,9 @@ layout: default
 
 **Libraries Includes in Tablet OS**
 
-Tablet OS bundles a comprehensive list of OSS libraries.
-As of the time of writing this page, the list is:
+Tablet OS bundles a comprehensive list of
+[Proprietary and OSS libraries](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
+As of the time of writing this page, the list of bundled Open Source libraries is:
 [bzip](http://bzip.org/), [c-ares](http://c-ares.haxx.se/), [CURL](http://curl.haxx.se/),
 [EGL](http://www.khronos.org/egl/), [expat](http://expat.sourceforge.net/), [FreeType](http://www.freetype.org/),
 [Fontconfig](http://www.freedesktop.org/wiki/software/fontconfig), [ICU](http://site.icu-project.org/),
@@ -17,10 +18,8 @@ As of the time of writing this page, the list is:
 [OpenGL ES](http://www.khronos.org/opengles/), [OpenKODE](http://www.khronos.org/openkode/),
 [OpenSSL](http://www.openssl.org/), [SQLite](http://www.sqlite.org/), [zlib](http://zlib.net/).
 
-The complete list of bundled libraries, proprietary or open source,
-is described in the [documentation page](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
 
-The components listed below extend these libraries.
+The components listed below make additional Open Source libraries available to the developers:
 
 <a name="media"/>
 **Media Components**
