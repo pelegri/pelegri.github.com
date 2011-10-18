@@ -20,7 +20,8 @@ As of the time of writing this page, the list of bundled Open Source libraries i
 
 
 The components listed below make additional Open Source libraries available to the developers:
-
+  
+  &nbsp;  
 <a name="media"/>
 **Media Components**  
 The following compoments are related to multi-media processing
@@ -45,7 +46,7 @@ SDL (Simple DirectMedia Layer) is a cross-platform multimedia library designed t
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
+  &nbsp;  
 <a name="gaming"/>
 **Gaming Components - Physics Engines**  
 The following components are Physics Engines:
@@ -62,6 +63,7 @@ Bullet is a professional free 3D game multi-physics library.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
+  &nbsp;  
 **Gaming Components - Game Engines**  
 The following components are Game Engines:
 
@@ -77,6 +79,7 @@ GamePlay is a new open-source, cross-platform 3D native gaming framework.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
+  &nbsp;  
 **Gaming Components - Games**  
 The following components are Games:
 
@@ -98,7 +101,7 @@ The Battle of Wesnoth is a turn-based, tactical strategy game.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
+  &nbsp;  
 <a name="libraries"/>
 **Libraries - General Purpose**  
 The following components are general purpose libraries and frameworks:
@@ -115,6 +118,7 @@ Boost is a popular set of C++ libraries.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
+  &nbsp;  
 **Libraries - Utilities**  
 The following components are utilities:
 
@@ -124,13 +128,13 @@ PCRE is a regular expression pattern matching using the same syntax and semantic
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
-
 <a name="TouchControlOverlay"/>
 **TouchControlOverlay**  
 TouchControlOverlay is a translation layer from touch inputs to mouse and keyboard events.
 The ported code is available at [github.com/blackberry/SDL](http://github.com/blackberry/SDL).  
 Also see [LibSDL.org](http://www.libsdl.org/).
 
+  &nbsp;  
 **Libraries - Languages**  
 The following components are languages:
 
