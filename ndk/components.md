@@ -5,27 +5,42 @@ layout: default
 
 # Open Source Components for the Native SDK for BlackBerry&reg; Tablet OS
 
+**Libraries Includes in Tablet OS**
+
+Tablet OS bundles a comprehensive list of OSS libraries.
+As of the time of writing this page, the list is:
+[bzip](http://bzip.org/), [c-ares](http://c-ares.haxx.se/), [CURL](http://curl.haxx.se/),
+[EGL](http://www.khronos.org/egl/), [expat](http://expat.sourceforge.net/), [FreeType](http://www.freetype.org/),
+[Fontconfig](http://www.freedesktop.org/wiki/software/fontconfig), [ICU](http://site.icu-project.org/),
+[libiconv](http://www.gnu.org/s/libiconv/), [libxml2](http://xmlsoft.org/),
+[Ncurses](http://www.gnu.org/software/ncurses/ncurses.html), [OpenAL](http://connect.creativelabs.com/openal/default.aspx),
+[OpenGL ES](http://www.khronos.org/opengles/), [OpenKODE](http://www.khronos.org/openkode/),
+[OpenSSL](http://www.openssl.org/), [SQLite](http://www.sqlite.org/), [zlib](http://zlib.net/).
+
+The complete list of bundled libraries, proprietary or open source,
+is described in the [documentation page](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
+
+The components listed below extend these libraries.
 
 <a name="media"/>
-*Media Components*
+**Media Components**
 
 The following compoments are related to multi-media processing
 
 <a name="OpenAL"/>
-***OpenAL***
-
-[OpenAL](ndk/components.html#OpenAL) (Open Audio Library) is an efficient multichannel 3D positional audio library.
-license...
-home at...
-libraries at...
+***OpenAL***  
+OpenAL (Open Audio Library) is an efficient multichannel 3D positional audio library.  
+license...  
+home at...  
+libraries at...  
 
 <a name="ALUT"/>
 ***ALUT***
 
-[ALUT](ndk/components.html#ALUT) (OpenAL Utility Toolkit) - popular companion library to OpenAL.
-license...
-home at...
-libraries at...
+[ALUT](ndk/components.html#ALUT) (OpenAL Utility Toolkit) - popular companion library to OpenAL.  
+license...  
+home at...  
+libraries at...  
 
 <a name="SDL"/>
 ***SDL***
