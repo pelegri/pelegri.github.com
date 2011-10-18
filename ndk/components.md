@@ -48,6 +48,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 <a name="gaming"/>
 **Gaming Components - Physics Engines**  
 The following components are Physics Engines:
@@ -65,6 +66,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 **Gaming Components - Game Engines**  
 The following components are Game Engines:
 
@@ -81,6 +83,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 **Gaming Components - Games**  
 The following components are Games:
 
@@ -103,6 +106,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 <a name="libraries"/>
 **Libraries - General Purpose**  
 The following components are general purpose libraries and frameworks:
@@ -120,6 +124,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 **Libraries - Utilities**  
 The following components are utilities:
 
@@ -136,6 +141,7 @@ The ported code is available at [github.com/blackberry/SDL](http://github.com/bl
 Also see [LibSDL.org](http://www.libsdl.org/).
 
   &nbsp;  
+
 **Libraries - Languages**  
 The following components are languages:
 
