@@ -16,7 +16,9 @@ incorporate these changes into the upstream repositories.
 RIM is also releasing under an Open Source license some new convenience libraries and frameworks and some samples that show how
 to use all this components to create applications for the BlackBerry&copy; PlayBook.
 
-The initial list of components covered in the initiative include:
+These components extend an already very comprehensive list of [libraries available on Tablet OS](http://developer.blackberry.com/native/documentation/com.qnx.doc.native_sdk.devguide/com.qnx.doc.native_sdk.devguide/topic/libraries.html).
+
+The initial list of new components added through the initiative include:
 
 **Media Components**
 
