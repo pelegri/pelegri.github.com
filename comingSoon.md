@@ -5,7 +5,7 @@ layout: default
 
 # Coming Soon
 
-Here are some Open Source activities we have already announced; collected for your convenience.
+Below are some Open Source activities we have already announced collected for your convenience.
 
 ## WebKit
 
@@ -41,7 +41,8 @@ We are porting Apache CouchDB to work with BlackBerry&copy; Tablet OS.  In prepa
 
 ## Qt
 
-The port of Qt Core is already available; expect a larger announcement, as part of the Qt community, soon.
+An initial port of Qt, including Qt core, used in Cascades, is [already available](http://github.com/blackberry/Qt).
+More details in a future announcement.
 
 ## WebGL-Samples
 
@@ -52,7 +53,7 @@ will be posted to the [WebGL-Samples](http://github.com/blackberry/WebGL-Samples
 
 Apache recently [approved](http://markmail.org/message/prcqe76mbseycbwl#query:+page:1+mid:6fvnvrvfumuaviwh+state:results)
 Callback as a project in the Apache incubator ([status page](http://incubator.apache.org/projects/callback.html)).
-During the technical keynote at DevCon 2011 America, Lauren Hasson indicated:
+During the technical keynote at DevCon 2011 America, [Lauren Hasson](https://github.com/ldhasson) indicated:
 
 > RIM has been very close to the PhoneGap team over the past year and WebWorks is already the infrastructure used by PhoneGap to
 > target BlackBerry devices. We are extremely pleased with the move to Apache and RIM will continue to support the project with

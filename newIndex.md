@@ -6,8 +6,10 @@ layout: default
 # Announcing the Native Open Source Components Initiative
 
 (Oct 18th, 2011) Today [Research in Motion](http://rim.com) announced its Native Open Source Components Initiative at DevCon 2011 America.
-As part of this initiative, RIM is contributing initial ports to the QNX-based BlackBerry&copy; Tablet OS
-of commonly used Open Source Libraries and Games.
+As part of this initiative, RIM is contributing initial ports
+of commonly used Open Source Libraries and Games to the QNX-based BlackBerry&copy; Tablet OS,
+to be used in conjuction with the
+[BlackBerry Native SDK for Tablet OS](http://blackberry.developer.com/native) (NDK).
 Following this release, RIM will collaborate with the existing open source communities to
 incorporate these changes into the upstream repositories.
 
@@ -47,6 +49,13 @@ The following components are general purpose libraries, languages, or frameworks
 * [Erlang-OTP](ndk/components.html#Erlang-OTP) - Erlang libraries and design principles.
 * [SpiderMonkey](ndk/components.html#SpiderMonkey) - Mozilla's JavaScript engine.
 * [TouchControlOverlay](ndk/components.html#TouchControlOverlay) - a translation layer from touch inputs to mouse and keyboard events.
+
+**Samples**
+
+The [NDK](http://blackberry.developer.com/native) bundles a small number (4) of samples, but many more are available here, including some showing integration
+with the [ScoreLoop SDK](http://developer.blackberry.com/native/documentation/scoreloop.html).
+
+* [NDK-Samples](ndk/samples.html) - a growing (21) collection of samples to use with the NDK.
 
 
 We hope you will find these components useful and we encourate your participation to improve them.
