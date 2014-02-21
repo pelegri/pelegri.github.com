@@ -6,9 +6,11 @@ layout: default
 # 500e Charging Log
 
 ## Feb 2014
+
 ### Mon, Feb 17
 * Dropped at FIAT putman, with LCS-25p and instructions on how to try to reproduce the 120V message.
 * 
+
 ### Tue, Feb 17
 * 
 
