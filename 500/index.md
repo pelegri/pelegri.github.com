@@ -9,13 +9,17 @@ layout: default
 
 ### Mon, Feb 17
 * Dropped at FIAT putman, with LCS-25p and instructions on how to try to reproduce the 120V message.
-* 
+* Mechanic could not reproduce.  They left the car overnight.
 
 ### Tue, Feb 17
-* 
+* Talked with mechanic and told him that other 500e showed 240V not 120V.
+* I went to pick up the car late afternoon.  He showed me a 2014 that also showed 120V.  We tried it 3 times with me there, 2 it showed 120V, and once it showed 240V.  I took the car home.
+* I plugged in the car.  It made the usual click-and-clack, and then it charged fine.
+* Took the car to pick up flier at airport
+* Plugged the car overnight.  The usual click-and-clack and then some grinding noise but it was charging fine.
 
 ### Wed, Feb 18
-...
+* Car didn't charge.
 
 ### Thu, Feb 19
 * Car was fully charged in the morning
