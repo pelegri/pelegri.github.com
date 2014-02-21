@@ -3,9 +3,8 @@ Tttle: Logs for 500e
 layout: default
 ---
 
-# 500e Charging Log
+# 500e Charging Log ([edit](https://github.com/pelegri/pelegri.github.com/edit/master/500/index.md))
 
-[Edit](https://github.com/pelegri/pelegri.github.com/edit/master/500/index.md)
 ## Feb 2014
 
 ### Mon, Feb 17
