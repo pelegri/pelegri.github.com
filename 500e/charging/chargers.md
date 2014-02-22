@@ -32,6 +32,7 @@ Started charging but failed (2 min)
 
 ## Mountain View City Hall
 
+| --- | --- |
 | Model | DS-100 |
 | Connector | Yazano |
 | Serial | CS1C12057501 |
