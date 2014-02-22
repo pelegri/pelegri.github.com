@@ -14,6 +14,15 @@ A test
 
 ## Palo Alto, California Avenue, Cambridge/Mimosa
 
+| *What* | *Value* |
+| :---- | :------- |
+| Model | DS-100 |
+| Connector | *__Delphi__* |
+| Serial | CS1C130511521 |
+| Part | 0214-00-002 |
+| Config | CS-40-C6-L25-12 |
+
+| | |
 | :---- | :------- |
 | Model | DS-100 |
 | Connector | *__Delphi__* |
