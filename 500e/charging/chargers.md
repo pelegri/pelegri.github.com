@@ -8,10 +8,12 @@ layout: default
 (mostly Dec 31, 2013)
 
 ## Palo Alto City Hall
-CS-40
+
 
 ## Palo Alto, California Avenue, Cambridge/Mimosa
 
+What | What
+-----------
 Model | DS-100
 Connector | Delphi
 Serial | CS1C130511521
