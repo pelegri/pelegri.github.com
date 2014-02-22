@@ -32,4 +32,8 @@ layout: default
 
 ### Fri, Feb 21 - fail, fail, success
 * Back home; tried to charge and failed once.  Usual failure click-and-clack noises.  Failure light, but car/ESEV tried to charge more than once.  Failure happened within the first 3 minutes.
-* Unplugged, waited for systems to quiesce, then plugged in, now more forcefully.  It is charging right now.
+* Unplugged, waited for systems to quiesce, then plugged in, now more forcefully.  It is charging right now.  Charged fine.
+
+### Sat, Feb 22 - fail, fail...
+* Battery down to 20% after trip up the peninsula.  Tried to charge and started charging.  2 minutes after it failed after the usual click-and-clack.  It then turned itself off and, without replugging in, it started trying to charge again.  2 more minutes and it did the same.  And once more.  I finally unplugged it.
+
