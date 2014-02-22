@@ -36,4 +36,5 @@ layout: default
 
 ### Sat, Feb 22 - fail, fail...
 * Battery down to 20% after trip up the peninsula.  Tried to charge and started charging.  2 minutes after it failed after the usual click-and-clack.  It then turned itself off and, without replugging in, it started trying to charge again.  2 more minutes and it did the same.  And once more.  I finally unplugged it.
+* Drove to find another HCS-40.  Old model (Yazaki connector). Charged fine twice in a row.
 
