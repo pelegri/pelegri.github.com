@@ -9,6 +9,14 @@ layout: default
 
 ## Palo Alto City Hall
 
+A test
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ## Palo Alto, California Avenue, Cambridge/Mimosa
 
