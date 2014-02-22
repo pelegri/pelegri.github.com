@@ -11,19 +11,13 @@ layout: default
 
 A test
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 ## Palo Alto, California Avenue, Cambridge/Mimosa
 
-| What | What    |
-| ---- | ------- |
+| *What* | *Value* |
+| :---- | :------- |
 | Model | DS-100 |
-| Connector | Delphi |
+| Connector | *__Delphi__* |
 | Serial | CS1C130511521 |
 | Part | 0214-00-002 |
 | Config | CS-40-C6-L25-12 |
@@ -32,10 +26,12 @@ Started charging but failed (2 min)
 
 ## Mountain View City Hall
 
-| What | What    |
-| --- | --- |
+| *What* | *Value* |
+| :--- | :--- |
 | Model | DS-100 |
-| Connector | Yazano |
+| Connector | *__Yazano__* |
 | Serial | CS1C12057501 |
 | Part | 0207-00-00 |
 | Config | CS-40-C4-L25-10 |
+
+Charged fine
