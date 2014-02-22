@@ -14,7 +14,6 @@ A test
 
 ## Palo Alto, California Avenue, Cambridge/Mimosa
 
-| *What* | *Value* |
 | :---- | :------- |
 | Model | DS-100 |
 | Connector | *__Delphi__* |
