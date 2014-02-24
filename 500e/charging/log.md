@@ -3,7 +3,7 @@ Tttle: Logs for 500e
 layout: default
 ---
 
-# 500e Charging Log ([edit](https://github.com/pelegri/pelegri.github.com/edit/master/500/index.md))
+# 500e Charging Log ([edit](https://github.com/pelegri/pelegri.github.com/edit/master/500e/charging/log.md))
 
 Also see [chargers](chargers.html)
 
@@ -41,3 +41,9 @@ Also see [chargers](chargers.html)
 * Drove to find another HCS-40.  Old model (Yazaki connector). Charged fine twice in a row.
 * Tried again at home.  Failed twice in a row.
 * Tried at home while pressing the connector by hand.  It charged fine.
+
+### Sun, Feb 23 - fail, fail, fail
+* Tried to charge while holding the connector firmly; failed with the usual clacking and the car reporting it was trying to charge
+* Unplugged, unwound the cable and laid up on the floor. Tried again to charge while holding the connector firmly; this time the car reported it was plugged didn't even try to charge.
+* Unplugged, tried again.  Also showed not trying to charge.  It reported "press now to charge", so I did that.  Twice.  No changes.  After a bit, the car now shows a charging fault.
+* I unplugged and will take it to the dealer tomorrow morning.
