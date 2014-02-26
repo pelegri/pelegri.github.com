@@ -47,3 +47,11 @@ Also see [chargers](chargers.html)
 * Unplugged, unwound the cable and laid up on the floor. Tried again to charge while holding the connector firmly; this time the car reported it was plugged didn't even try to charge.
 * Unplugged, tried again.  Also showed not trying to charge.  It reported "press now to charge", so I did that.  Twice.  No changes.  After a bit, the car now shows a charging fault.
 * I unplugged and will take it to the dealer tomorrow morning.
+* Looked more carefully and I see evidence of heat damage - see [Pictures](http://www.flickr.com/photos/42919418@N03/sets/72157641437193913/).
+
+### Mon, Feb 24 - 
+* Took the car to the dealer.  They read the codes.  I have EVCU P1A15-00 ("Motor Electronics Coolant Pump Control Module Feedback Circuit") and OBCM P0D27-00 ("Battery Charger 1 Input Voltage Too Low").  It may be a PIM problem - or something else.
+* Car charges OK with 120V charger, probably because the 120V charger only uses the AC-1 contact, not the AC-2 that is damaged, but I am not doing any more charging until I can get the car into the shop.
+
+### Tue, Feb 25
+* Awaiting for the car to get into the shop. More research seems to clearly indicate thermal damage.  Clipper Creek will send a clean unit but we need to resolve the root cause before we can try again.
