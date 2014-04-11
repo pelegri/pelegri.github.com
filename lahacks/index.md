@@ -5,24 +5,23 @@ layout: default
 
 version 0.1 - The latest version of this file is available at http://pelegri.github.com/LAHacks
 
-
-Sponsor:
+# Sponsor
    Progress Software
 
-Contact:
+# Contact
    Eduardo Pelegri-Llopart, VP, technology
    Redwood City, CA, USA
    http://pelegri.github.com, http://pelegri.wordpress.com
    @pelegri
    pelegri@calterra.com, epelegri@progress.com, epelegrillopart.w@gmail.com
 
-Company Details:
+# Company Details:
    Main sites in Bedford MA (HQ, near Boston), Morrisville NC (nead Raleigh) and Hyderadab, India, plus others.
 
-LAHacks Theme
+# LAHacks Theme
 Theme:  Node.js + IOT + Rollbase
 
-Details:
+# Details:
    Use Node.js to create an IOT application, optionally leveraging some Rollbase or other Pacific services (see below).  There is a small IOT lending library.  There are prizes.
 
 
