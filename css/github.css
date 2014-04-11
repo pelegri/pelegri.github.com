@@ -144,7 +144,8 @@ a.newsPost:visited
 
 .menu-column
 {
-	width: 200px;
+/*	width: 200px; */
+	width: 000px;
 }
 
 .menu 
