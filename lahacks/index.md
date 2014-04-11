@@ -3,7 +3,7 @@ Tttle: Welcome to LAHacks
 layout: default
 ---
 
-version 0.1 - The latest version of this file is available at http://pelegri.github.com/LAHacks
+The latest version of this file is available at http://pelegri.github.com/LAHacks
 
 # Sponsor
    Progress Software
