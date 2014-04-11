@@ -3,21 +3,20 @@ Tttle: Welcome to LAHacks - Handout
 layout: default
 ---
 
-A longer version of this doc is available at http://pelegri.github.com/lahacks
+A longer version of this doc is available at [pelegri.github.io/lahacks](http://pelegri.github.com/lahacks)
 
 # Sponsor
-   Progress Software
+   [Progress Software](http://progress.com)
 
 # Contact
-   Eduardo Pelegri-Llopart, VP, technology  
-   http://pelegri.github.com, http://pelegri.wordpress.com  
+   Eduardo Pelegri-Llopart, VP, technology,  http://pelegri.wordpress.com  
    @pelegri, pelegri@calterra.com, epelegri@progress.com, epelegrillopart.w@gmail.com  
 
-# LAHacks Theme
-Theme:  Node.js + IOT + Rollbase
+# Theme
+Node.js + IOT ( + Rollbase)
 
 # Details:
-   Use Node.js to create an IOT application, optionally leveraging some Rollbase or other Pacific services (see below).  There is a small IOT lending library.  There are prizes.
+   Use Node.js to create an IOT application, optionally leveraging some Rollbase or other Pacific services (see below).  
 
 # Lending Library Resources  
 Qualcom Gimbal Series 10, RadBeacons, Pebble, Philips Hue  
