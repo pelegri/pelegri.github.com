@@ -24,6 +24,7 @@ Extra points will be awarded if your hack leverages one of Pacific's services, b
 
 # Prizes:
 All teams that "complete" their hack can keep their Qualcom Gimbals  
+
 1st prize is a iPad mini retina  
 2nd prize is the Pebble or the Philips Hue SDK  
    

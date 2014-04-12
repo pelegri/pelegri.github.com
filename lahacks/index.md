@@ -19,10 +19,10 @@ The latest version of this file is available at [pelegri.github.com/lahacks](htt
    Main sites in Bedford MA (HQ, near Boston), Morrisville NC (nead Raleigh) and Hyderadab, India, plus others.
 
 # LAHacks Theme
-Theme:  Node.js + IOT + Rollbase
+Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) --  Add Rollbase for super-extra credit
 
 # Details:
-   Use Node.js to create an IOT application, optionally leveraging some Rollbase or other Pacific services (see below).  There is a small IOT lending library.  There are prizes.
+   Use Node.js to create an IOT application.  There is a small IOT lending library.   You can optionally leverage some Rollbase or other Pacific services (see below).  There are prizes. 
 
 
 # API Program Summary:
@@ -33,14 +33,14 @@ Theme:  Node.js + IOT + Rollbase
 
 
 # Progress at LAHacks
-   We (really just Eduardo) are in booth XX. I won't be able to man the booth all the time, be patient with me and check booth hours.
+   "We" (Eduardo) are in the booth at the end of the hallway. I won't be able to man the booth all the time, be patient with me and check booth hours.
 
 
 # Booth Hours:
   Hours will be updated through the event.  
   FRIDAY  
 	5pm - Eduardo arrives at LAX Friday  
-	?pm - Booth opens at Pauley Pavillion  
+	7pm - Booth opens at Pauley Pavillion  
   SATURDAY  
 	12:30am - Allocation of resources from Lending Library  
         1am - Booth closes  
@@ -55,21 +55,14 @@ Theme:  Node.js + IOT + Rollbase
 
 ## iBeacon:
    The beacons can be borrowed for the duration of the event.
-   Qualcom Gimbal Series 10 - 15 units
-     -- max one per team, but see below
-     -- these you can keep upon successful completion of the project
-   Additional Qualcom Gimbal Series 10 - 10 units
-     -- can be borrowed for short periods of time
+   Qualcom Gimbal Series 10
    RadBeacon (Radius Networks) - 3
      -- can be borrowed for short periods of time 
-   Estimote (??)
 
 ## Other:
-   Pebble (plastic) - 2
-     -- you may need to share
-   Philips Hue SDK - 1 (bridge + 3 lights) &
-     -- you may need to share
-   Philips Hue Boom and Philips Hue lightstrip
+   Pebble (plastic) - 1
+     -- send me a strong proposal
+   Philips Hue SDK - 1 (bridge + 3 lights) & Philips Hue lightstrip
      -- you may need to share
    
 
@@ -83,20 +76,6 @@ Theme:  Node.js + IOT + Rollbase
      For each member of the team, please provide  
        full name  
        school, major and year  
-
-   Come by the progress booth to confirm you are in the lending reservation queue.  
-
-   I will allocate devices 12:30am PT Saturday morning.  
-   
-   If you change your plan and decide you will not need the resource, return it directly to me at the booth.
-   
-# How to borrow from other borrowers:
-   If you need a resource that has already been allocated, I'll put the two teams in contact.  
-
-   You can transfer directly from team to team ONLY for Gimbals  
-
-   You need to transfer from team to Eduardo to team for ALL OTHER RESOURCES  
-       (contact eduardo if you need to setup a different arrangement)  
 
 # Resources on Completion of Project
    You can keep your Qualcomm Gimbal at the end of the hackathon if you complete it  

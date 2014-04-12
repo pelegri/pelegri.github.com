@@ -138,8 +138,10 @@ a.newsPost:visited
 
 .content-column
 {
-	width: 700px;
-	padding-right: 20px;
+/*	width: 700px; */
+/*	padding-right: 20px; */
+        width: 900px;
+	padding-right: 0px;
 }
 
 .menu-column
